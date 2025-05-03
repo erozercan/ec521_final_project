@@ -1,0 +1,13 @@
+{
+    "name": "CSP Bypass Extension",
+    "description": "CSP bypass extension for testing/demo purposes",
+    "version": "1.0",
+    "manifest_version": 3,
+    "permissions": [
+        "declarativeNetRequest",
+        "webRequest",
+        "storage"
+    ],
+    "host_permissions": ["<all_urls>"],
+    "background": {"service_worker": "background.js"}
+}
