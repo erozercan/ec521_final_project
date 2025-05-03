@@ -1,0 +1,359 @@
+  Now checking Chrome profile: Default...
+
+  Checking extension: TTV LOL PRO...
+
+   FOUND ISSUES IN EXTENSION: TTV LOL PRO
+   Browser: Chrome, Profile: Default
+   Image URL: https://lh3.googleusercontent.com/yF7AKPHxvHKSfN_XiaGfskwiAgLYjhR05y6z8NmRnHC2D7m1EEZKnhxPhPIcrvlMNJ29WUjg3Ac9AMT-gdsctXWq=s60
+   Risk Score: 5
+
+        tabs found in:
+                Found in 1 places
+
+        declarativenetrequest found in:
+                Found in 1 places
+
+        unsafe_keywords found in:
+                Found in 20 places
+
+------------------------------------------------------------
+
+  Checking extension: Watch2Gether...
+
+   FOUND ISSUES IN EXTENSION: Watch2Gether
+   Browser: Chrome, Profile: Default
+   Image URL: https://lh3.googleusercontent.com/pBN8e1Lf8A2EUCnHA9hYFIDMKJSsObthjVQZtL0SzUycZZTuz_ZdclBAI6IDDg44lPX8c5owk5O4sWWLYhyxpwkDhw=s60
+   Risk Score: 4
+
+        declarativenetrequest found in:
+                Found in 1 places
+
+        unsafe_keywords found in:
+                Found in 19 places
+
+------------------------------------------------------------
+
+  Checking extension: uBlock Origin...
+
+   FOUND ISSUES IN EXTENSION: uBlock Origin
+   Browser: Chrome, Profile: Default
+   Image URL: https://lh3.googleusercontent.com/rrgyVBVte7CfjjeTU-rCHDKba7vtq-yn3o8-10p5b6QOj_2VCDAO3VdggV5fUnugbG2eDGPPjoJ9rsiU_tUZBExgLGc=s60
+   Risk Score: 13
+
+        csp found in:
+                Found in 1 places
+
+        tabs found in:
+                Found in 1 places
+
+        webrequestblocking found in:
+                Found in 1 places
+
+        unsafe_keywords found in:
+                Found in 63 places
+
+------------------------------------------------------------
+
+  Checking extension: Annotations Restored for YouTube™...
+
+   FOUND ISSUES IN EXTENSION: Annotations Restored for YouTube™
+   Browser: Chrome, Profile: Default
+   Image URL: https://lh3.googleusercontent.com/7nUOMVISliXTaEPBFYUgNvweE0mJZFJNLn0tB3kiVk7DPS8P-CYupwQPnQczFnoDKgSWkDXC-WuM1COOC_CGKOQe=s60
+   Risk Score: 3
+
+        unsafe_keywords found in:
+                Found in 8 places
+
+------------------------------------------------------------
+
+  Checking extension: Tampermonkey...
+
+   FOUND ISSUES IN EXTENSION: Tampermonkey
+   Browser: Chrome, Profile: Default
+   Image URL: https://lh3.googleusercontent.com/zoY8FwoOqPlBgFxcmFdNSK2Q4CcLmv-gw7vTjF2KMR9cEabwBsGNrHBTEMitn0Ba6OmCVJ0NcLnFGu3N97BP8Phu0g=s60
+   Risk Score: 13
+
+        csp found in:
+                Found in 1 places
+
+        tabs found in:
+                Found in 1 places
+
+        webrequestblocking found in:
+                Found in 1 places
+
+        declarativenetrequest found in:
+                Found in 1 places
+
+        unsafe_keywords found in:
+                Found in 20 places
+
+------------------------------------------------------------
+
+  Checking extension: I Wanna Be The Flash Game...
+
+   FOUND ISSUES IN EXTENSION: I Wanna Be The Flash Game
+   Browser: Chrome, Profile: Default
+   Image URL: https://lh3.googleusercontent.com/d2oWaHyR3lvcra81oVS0o8rrl9w9ZP76V33ChnwX1YkZ4rPGR7qQTmm5sxN3XI9bco8DUcDY2p_3VWvvAQeMVcHYhw=s60
+   Risk Score: 1
+
+        unsafe_keywords found in:
+                Found in 2 places
+
+------------------------------------------------------------
+
+  Checking extension: Return YouTube Dislike...
+
+   FOUND ISSUES IN EXTENSION: Return YouTube Dislike
+   Browser: Chrome, Profile: Default
+   Image URL: https://lh3.googleusercontent.com/X0-M21C_VbWyXYuUjN55oyMDvOukjbzAxbs_WrUjwzsebWbyjFCIEchOtczI0DBvbyL9MUpuEWnghm19gF6dp8Vriw=s60
+   Risk Score: 3
+
+        unsafe_keywords found in:
+                Found in 11 places
+
+------------------------------------------------------------
+
+  Checking extension: Google Docs Offline...
+
+   FOUND ISSUES IN EXTENSION: Google Docs Offline
+   Browser: Chrome, Profile: Default
+   Image URL: https://lh3.googleusercontent.com/7ZBWwJBUILCxSsLzHse2zUX0nGyyDPAi_OsamyY88qfvfYFQs49JflAhDa5DKwdVVR_DLCovV-ATqrdjreE43ZGiZA=s60
+   Risk Score: 5
+
+        clipboardread found in:
+                Found in 1 places
+
+        unsafe_keywords found in:
+                Found in 7 places
+
+------------------------------------------------------------
+
+  Checking extension: Screen Recorder...
+
+   FOUND ISSUES IN EXTENSION: Screen Recorder
+   Browser: Chrome, Profile: Default
+   Image URL: https://lh3.googleusercontent.com/xjK7NQkDGttQaHIetQ9LdofoAhYz9sqveYVt5ICo-2Oa27S78ZUsfW741wRdxWpoAZcNuuNWeSw0TPEGRJI6sUY1aA=s60
+   Risk Score: 3
+
+        unsafe_keywords found in:
+                Found in 11 places
+
+------------------------------------------------------------
+
+  Checking extension: Allow CSP: Content-Security-Policy...
+
+   FOUND ISSUES IN EXTENSION: Allow CSP: Content-Security-Policy
+   Browser: Chrome, Profile: Default
+   Image URL: https://lh3.googleusercontent.com/E2w05bXNwmUsYxISnPR5ExFemYVO02D4pXTFThvdh4LoobuKfHIPE_AWw_CFaykbbfONXWqBqmm81VK5nTIERFuF=s60
+   Risk Score: 11
+
+        csp found in:
+                Found in 1 places
+
+        declarativenetrequest found in:
+                Found in 1 places
+
+        unsafe_keywords found in:
+                Found in 4 places
+
+------------------------------------------------------------
+
+  Checking extension: Disable Content-Security-Policy...
+
+   FOUND ISSUES IN EXTENSION: Disable Content-Security-Policy
+   Browser: Chrome, Profile: Default
+   Image URL: https://lh3.googleusercontent.com/RpTYrKJqxmhlpkWd_gc8Rxzs23sg0opE_DIETEftG45d-hE32h8-nek1R2GxCAlxEk6Jh82VsE2RLFx6ouU77z_tvF8=s60
+   Risk Score: 10
+
+        csp found in:
+                Found in 1 places
+
+        declarativenetrequest found in:
+                Found in 1 places
+
+        unsafe_keywords found in:
+                Found in 1 places
+
+------------------------------------------------------------
+
+  Checking extension: Looper for YouTube...
+
+   FOUND ISSUES IN EXTENSION: Looper for YouTube
+   Browser: Chrome, Profile: Default
+   Image URL: https://lh3.googleusercontent.com/1um_gR-714iErBRLcuOOsC3tG6bHKJZgkkszLAQoK4PYbiRwSEDwna0eheWn6we80rY-e9uBk2bkoNKTGBLfcrFNpQ=s60
+   Risk Score: 3
+
+        unsafe_keywords found in:
+                Found in 6 places
+
+------------------------------------------------------------
+
+  Checking extension: GPemu...
+
+   FOUND ISSUES IN EXTENSION: GPemu
+   Browser: Chrome, Profile: Default
+   Image URL: https://lh3.googleusercontent.com/4Tzu_kv0EzEyEICRg4ua_yulQSBY5MEuGxbgzzT9_fZlP_H7vWu_qnJAfJlVYWCLIEFoOETDvmpz5-KhHJaS5XXsPJc=s60
+   Risk Score: 3
+
+        unsafe_keywords found in:
+                Found in 16 places
+
+------------------------------------------------------------
+
+  Checking extension: EPUBReader...
+
+   FOUND ISSUES IN EXTENSION: EPUBReader
+   Browser: Chrome, Profile: Default
+   Image URL: https://lh3.googleusercontent.com/Yv_tIM5iYJGlhRohhnV2EYBGLvSyRSMZbK6FGCTsQ7Ri8keYrEbkSsUPh1wO_vYE6oK7FnS_h15gn1vYTfKkZsjvHw=s60
+   Risk Score: 4
+
+        declarativenetrequest found in:
+                Found in 1 places
+
+        unsafe_keywords found in:
+                Found in 10 places
+
+------------------------------------------------------------
+
+  Checking extension: CSP Unblock...
+
+   FOUND ISSUES IN EXTENSION: CSP Unblock
+   Browser: Chrome, Profile: Default
+   Image URL: https://lh3.googleusercontent.com/4bhq22ouTciJnDL8N22vmSqc37ES7xVQF4OA14V--lo_6CiyBwYrNjB8mK0tTIF9VzzMrix3RmwHRO6-JCk7ejTUSQ=s60
+   Risk Score: 9
+
+        csp found in:
+                Found in 8 places
+
+        declarativenetrequest found in:
+                Found in 1 places
+
+------------------------------------------------------------
+
+  Checking extension: Screencastify - Screen Video Recorder...
+
+   FOUND ISSUES IN EXTENSION: Screencastify - Screen Video Recorder
+   Browser: Chrome, Profile: Default
+   Image URL: https://lh3.googleusercontent.com/tLAX011-xl2axie7eeLRU3Bsv6_06-Km7ihH1fbxbOnkPubvoRjDatjxN5xmw9R4P2AdZFowUimFcBSSqPHJgjqq7g=s60
+   Risk Score: 4
+
+        tabs found in:
+                Found in 1 places
+
+        unsafe_keywords found in:
+                Found in 209 places
+
+------------------------------------------------------------
+
+  Checking extension: nmmhkkegccagdldgiimedpiccmgmieda...
+
+   FOUND ISSUES IN EXTENSION: nmmhkkegccagdldgiimedpiccmgmieda
+   Browser: Chrome, Profile: Default
+   Image URL: N/A
+   Risk Score: 3
+
+        unsafe_keywords found in:
+                Found in 11 places
+
+------------------------------------------------------------
+
+  Checking extension: Spelunky...
+
+   FOUND ISSUES IN EXTENSION: Spelunky
+   Browser: Chrome, Profile: Default
+   Image URL: https://lh3.googleusercontent.com/IQHsY_SsUDmGARBasxi515GddXIPp88CG3II5rOwGz5nZp1pqtgu4Rs9kHFmwm8FXmsEdHiKHG0X7raR1TnPkwsL2A=s60
+   Risk Score: 3
+
+        unsafe_keywords found in:
+                Found in 5 places
+
+------------------------------------------------------------
+
+  Checking extension: Video Editor for Chromebook &amp; more: Free app...
+
+  Checking extension: SetupVPN - Lifetime Free VPN...
+
+   FOUND ISSUES IN EXTENSION: SetupVPN - Lifetime Free VPN
+   Browser: Chrome, Profile: Default
+   Image URL: https://lh3.googleusercontent.com/ZzPRBendQuibTvEyWxnBentVUh3WH1omEDpzHyM4xTg9NyyVIQ_sNvETuJXEnoWc05zKVpnDZdIGjugiHZsmsbFzKg=s60
+   Risk Score: 5
+
+        tabs found in:
+                Found in 1 places
+
+        declarativenetrequest found in:
+                Found in 1 places
+
+        unsafe_keywords found in:
+                Found in 23 places
+
+------------------------------------------------------------
+
+  Checking extension: Discrub...
+
+   FOUND ISSUES IN EXTENSION: Discrub
+   Browser: Chrome, Profile: Default
+   Image URL: https://lh3.googleusercontent.com/-ub3XZkLLq-u5I5a3zWbLQgf50Q_h2YtkZHkkWfc1dsRQziXgcV8uDD4Qk-I5gnQUyMwOqOJzO21_iFnAmqcH7Zg9g=s60
+   Risk Score: 3
+
+        unsafe_keywords found in:
+                Found in 11 places
+
+------------------------------------------------------------
+
+  Now checking Edge profile: Default...
+
+  Checking extension: Google Docs Offline...
+
+   FOUND ISSUES IN EXTENSION: Google Docs Offline
+   Browser: Edge, Profile: Default
+   Image URL: https://lh3.googleusercontent.com/7ZBWwJBUILCxSsLzHse2zUX0nGyyDPAi_OsamyY88qfvfYFQs49JflAhDa5DKwdVVR_DLCovV-ATqrdjreE43ZGiZA=s60
+   Risk Score: 5
+
+        clipboardread found in:
+                Found in 2 places
+
+        unsafe_keywords found in:
+                Found in 14 places
+
+------------------------------------------------------------
+
+  Checking extension: jmjflgjpcpepeafmmgdpfkogkghcpiha...
+
+   FOUND ISSUES IN EXTENSION: jmjflgjpcpepeafmmgdpfkogkghcpiha
+   Browser: Edge, Profile: Default
+   Image URL: N/A
+   Risk Score: 1
+
+        unsafe_keywords found in:
+                Found in 1 places
+
+------------------------------------------------------------
+
+
+
+SUMMARY:
+
+uBlock Origin: Risk Score: 13
+Tampermonkey: Risk Score: 13
+Allow CSP: Content-Security-Policy: Risk Score: 11
+Disable Content-Security-Policy: Risk Score: 10
+CSP Unblock: Risk Score: 9
+TTV LOL PRO: Risk Score: 5
+SetupVPN - Lifetime Free VPN: Risk Score: 5
+Google Docs Offline: Risk Score: 5
+Google Docs Offline: Risk Score: 5
+Watch2Gether: Risk Score: 4
+Screencastify - Screen Video Recorder: Risk Score: 4
+EPUBReader: Risk Score: 4
+nmmhkkegccagdldgiimedpiccmgmieda: Risk Score: 3
+Spelunky: Risk Score: 3
+Screen Recorder: Risk Score: 3
+Return YouTube Dislike: Risk Score: 3
+Looper for YouTube: Risk Score: 3
+GPemu: Risk Score: 3
+Discrub: Risk Score: 3
+Annotations Restored for YouTube™: Risk Score: 3
+jmjflgjpcpepeafmmgdpfkogkghcpiha: Risk Score: 1
+I Wanna Be The Flash Game: Risk Score: 1

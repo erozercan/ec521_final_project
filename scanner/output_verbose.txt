@@ -1,0 +1,818 @@
+  Now checking Chrome profile: Default...
+
+  Checking extension: TTV LOL PRO...
+
+   FOUND ISSUES IN EXTENSION: TTV LOL PRO
+   Browser: Chrome, Profile: Default
+   Image URL: https://lh3.googleusercontent.com/yF7AKPHxvHKSfN_XiaGfskwiAgLYjhR05y6z8NmRnHC2D7m1EEZKnhxPhPIcrvlMNJ29WUjg3Ac9AMT-gdsctXWq=s60
+   Risk Score: 5
+
+        tabs found in:
+                2.4.0_1\manifest.json
+
+        declarativenetrequest found in:
+                2.4.0_1\manifest.json
+
+        unsafe_keywords found in:
+                2.4.0_1\menu.b995254d.js – keyword: "navigator.clipboard"
+                2.4.0_1\worker.91cae096.js – keyword: "atob("
+                2.4.0_1\worker.57e98bf9.js – keyword: "atob("
+                2.4.0_1\background.900d1d46.js – keyword: "setTimeout("
+                2.4.0_1\page.442faf9b.js – keyword: "atob("
+                2.4.0_1\page.8bcf426c.js – keyword: "atob("
+                2.4.0_1\background.900d1d46.js – keyword: "fetch("
+                2.4.0_1\options\page.ad98ff84.js – keyword: "fetch("
+                2.4.0_1\worker.91cae096.js – keyword: "setTimeout("
+                2.4.0_1\content.edd9c6ae.js – keyword: "setTimeout("
+                2.4.0_1\options\page.13cc61bb.js – keyword: "fetch("
+                2.4.0_1\background.900d1d46.js – keyword: "outerHTML"
+                2.4.0_1\worker.57e98bf9.js – keyword: "setTimeout("
+                2.4.0_1\menu.c6c41832.js – keyword: "innerHTML"
+                2.4.0_1\menu.c6c41832.js – keyword: "navigator.clipboard"
+                2.4.0_1\options\page.ad98ff84.js – keyword: "innerHTML"
+                2.4.0_1\page.442faf9b.js – keyword: "setTimeout("
+                2.4.0_1\menu.b995254d.js – keyword: "innerHTML"
+                2.4.0_1\page.8bcf426c.js – keyword: "setTimeout("
+                2.4.0_1\options\page.13cc61bb.js – keyword: "innerHTML"
+
+------------------------------------------------------------
+
+  Checking extension: Watch2Gether...
+
+   FOUND ISSUES IN EXTENSION: Watch2Gether
+   Browser: Chrome, Profile: Default
+   Image URL: https://lh3.googleusercontent.com/pBN8e1Lf8A2EUCnHA9hYFIDMKJSsObthjVQZtL0SzUycZZTuz_ZdclBAI6IDDg44lPX8c5owk5O4sWWLYhyxpwkDhw=s60
+   Risk Score: 4
+
+        declarativenetrequest found in:
+                10.3_0\manifest.json
+
+        unsafe_keywords found in:
+                10.3_0\w2gbundle.d8d7f08c.js – keyword: "innerHTML"
+                10.3_0\w2gbundle.e3489b8d.js – keyword: "setTimeout("
+                10.3_0\w2gbundle.e3489b8d.js – keyword: "setInterval("
+                10.3_0\w2gbundle.dc79b58f.js – keyword: "innerHTML"
+                10.3_0\w2gbundle.dc79b58f.js – keyword: "localStorage.setItem("
+                10.3_0\w2gbundle.dc79b58f.js – keyword: "navigator.clipboard"
+                10.3_0\w2gbundle.e917737a.js – keyword: "innerHTML"
+                10.3_0\w2gbundle.1abdcbd7.js – keyword: "setTimeout("
+                10.3_0\w2gbundle.444af0d9.js – keyword: "innerHTML"
+                10.3_0\w2gbundle.444af0d9.js – keyword: "localStorage.setItem("
+                10.3_0\w2gbundle.444af0d9.js – keyword: "navigator.clipboard"
+                10.3_0\w2gbundle.e3489b8d.js – keyword: "chrome.runtime.sendMessage("
+                10.3_0\w2gbundle.e3489b8d.js – keyword: "innerHTML"
+                10.3_0\w2gbundle.04e26fec.js – keyword: "chrome.runtime.sendMessage("
+                10.3_0\w2gbundle.1876b984.js – keyword: "setTimeout("
+                10.3_0\w2gbundle.dc79b58f.js – keyword: "setTimeout("
+                10.3_0\w2gbundle.dc79b58f.js – keyword: "fetch("
+                10.3_0\w2gbundle.444af0d9.js – keyword: "setTimeout("
+                10.3_0\w2gbundle.444af0d9.js – keyword: "fetch("
+
+------------------------------------------------------------
+
+  Checking extension: uBlock Origin...
+
+   FOUND ISSUES IN EXTENSION: uBlock Origin
+   Browser: Chrome, Profile: Default
+   Image URL: https://lh3.googleusercontent.com/rrgyVBVte7CfjjeTU-rCHDKba7vtq-yn3o8-10p5b6QOj_2VCDAO3VdggV5fUnugbG2eDGPPjoJ9rsiU_tUZBExgLGc=s60
+   Risk Score: 13
+
+        csp found in:
+                1.63.2_1\js\static-net-filtering.js
+
+        tabs found in:
+                1.63.2_1\manifest.json
+
+        webrequestblocking found in:
+                1.63.2_1\manifest.json
+
+        unsafe_keywords found in:
+                1.63.2_1\assets\ublock\filters.min.txt – keyword: "btoa("
+                1.63.2_1\js\start.js – keyword: "fetch("
+                1.63.2_1\assets\ublock\unbreak.min.txt – keyword: "setTimeout("
+                1.63.2_1\lib\codemirror\lib\codemirror.js – keyword: "setTimeout("
+                1.63.2_1\js\diff-updater.js – keyword: "fetch("
+                1.63.2_1\js\redirect-engine.js – keyword: "atob("
+                1.63.2_1\lib\codemirror\addon\hint\show-hint.js – keyword: "setTimeout("
+                1.63.2_1\lib\codemirror\lib\codemirror.js – keyword: "setInterval("
+                1.63.2_1\js\cachestorage.js – keyword: "indexedDB.open("
+                1.63.2_1\js\dashboard.js – keyword: "localStorage.setItem("
+                1.63.2_1\lib\codemirror\addon\edit\matchbrackets.js – keyword: "setTimeout("
+                1.63.2_1\js\storage.js – keyword: "fetch("
+                1.63.2_1\js\scriptlets\dom-inspector.js – keyword: "setTimeout("
+                1.63.2_1\lib\codemirror\addon\merge\merge.js – keyword: "setTimeout("
+                1.63.2_1\assets\ublock\badware.min.txt – keyword: "atob("
+                1.63.2_1\js\s14e-serializer.js – keyword: "setTimeout("
+                1.63.2_1\lib\codemirror\addon\merge\merge.js – keyword: "setInterval("
+                1.63.2_1\assets\ublock\badware.min.txt – keyword: "innerHTML"
+                1.63.2_1\js\traffic.js – keyword: "outerHTML"
+                1.63.2_1\assets\ublock\badware.min.txt – keyword: "new Function("
+                1.63.2_1\js\resources\prevent-innerHTML.js – keyword: "innerHTML"
+                1.63.2_1\lib\lz4\lz4-block-codec-wasm.js – keyword: "fetch("
+                1.63.2_1\js\code-viewer.js – keyword: "fetch("
+                1.63.2_1\web_accessible_resources\fingerprint2.js – keyword: "setTimeout("
+                1.63.2_1\lib\codemirror\addon\scroll\annotatescrollbar.js – keyword: "setTimeout("
+                1.63.2_1\assets\ublock\filters.min.txt – keyword: "atob("
+                1.63.2_1\js\resources\scriptlets.js – keyword: "XMLHttpRequest("
+                1.63.2_1\assets\ublock\filters.min.txt – keyword: "innerHTML"
+                1.63.2_1\js\logger-ui.js – keyword: "setTimeout("
+                1.63.2_1\js\vapi-common.js – keyword: "setTimeout("
+                1.63.2_1\js\resources\scriptlets.js – keyword: "setTimeout("
+                1.63.2_1\_metadata\computed_hashes.json – keyword: "innerHTML"
+                1.63.2_1\assets\ublock\filters.min.txt – keyword: "navigator.clipboard"
+                1.63.2_1\assets\ublock\quick-fixes.min.txt – keyword: "innerHTML"
+                1.63.2_1\js\resources\scriptlets.js – keyword: "fetch("
+                1.63.2_1\assets\ublock\quick-fixes.min.txt – keyword: "localStorage.setItem("
+                1.63.2_1\js\document-blocked.js – keyword: "localStorage.setItem("
+                1.63.2_1\js\contentscript.js – keyword: "setTimeout("
+                1.63.2_1\js\assets.js – keyword: "XMLHttpRequest("
+                1.63.2_1\js\messaging.js – keyword: "localStorage.setItem("
+                1.63.2_1\js\resources\cookie.js – keyword: "setTimeout("
+                1.63.2_1\js\scriptlets\noscript-spoof.js – keyword: "setTimeout("
+                1.63.2_1\lib\codemirror\addon\fold\foldgutter.js – keyword: "setTimeout("
+                1.63.2_1\js\assets.js – keyword: "fetch("
+                1.63.2_1\js\urlskip.js – keyword: "atob("
+                1.63.2_1\js\vapi-client.js – keyword: "setTimeout("
+                1.63.2_1\js\resources\scriptlets.js – keyword: "btoa("
+                1.63.2_1\js\1p-filters.js – keyword: "localStorage.setItem("
+                1.63.2_1\web_accessible_resources\googletagmanager_gtm.js – keyword: "setTimeout("
+                1.63.2_1\js\3p-filters.js – keyword: "localStorage.setItem("
+                1.63.2_1\js\redirect-engine.js – keyword: "btoa("
+                1.63.2_1\js\vapi-background.js – keyword: "localStorage.setItem("
+                1.63.2_1\js\popup-fenix.js – keyword: "localStorage.setItem("
+                1.63.2_1\js\tasks.js – keyword: "setTimeout("
+                1.63.2_1\js\resources\scriptlets.js – keyword: "innerHTML"
+                1.63.2_1\assets\ublock\filters.min.txt – keyword: "setTimeout("
+                1.63.2_1\js\logger-ui.js – keyword: "localStorage.setItem("
+                1.63.2_1\js\resources\scriptlets.js – keyword: "atob("
+                1.63.2_1\web_accessible_resources\google-analytics_analytics.js – keyword: "setTimeout("
+                1.63.2_1\web_accessible_resources\google-ima.js – keyword: "innerHTML"
+                1.63.2_1\assets\ublock\quick-fixes.min.txt – keyword: "setTimeout("
+                1.63.2_1\js\dyna-rules.js – keyword: "localStorage.setItem("
+                1.63.2_1\js\cloud-ui.js – keyword: "XMLHttpRequest("
+
+------------------------------------------------------------
+
+  Checking extension: Annotations Restored for YouTube™...
+
+   FOUND ISSUES IN EXTENSION: Annotations Restored for YouTube™
+   Browser: Chrome, Profile: Default
+   Image URL: https://lh3.googleusercontent.com/7nUOMVISliXTaEPBFYUgNvweE0mJZFJNLn0tB3kiVk7DPS8P-CYupwQPnQczFnoDKgSWkDXC-WuM1COOC_CGKOQe=s60
+   Risk Score: 3
+
+        unsafe_keywords found in:
+                1.2.1_0\js\annotationlib\dist\AnnotationRenderer.js – keyword: "setTimeout("
+                1.2.1_0\js\content.js – keyword: "chrome.runtime.sendMessage("
+                1.2.1_0\js\annotationlib\dist\AnnotationRenderer.js – keyword: "setInterval("
+                1.2.1_0\js\content.js – keyword: "innerHTML"
+                1.2.1_0\js\content.js – keyword: "setTimeout("
+                1.2.1_0\popup\index.js – keyword: "setTimeout("
+                1.2.1_0\js\content.js – keyword: "setInterval("
+                1.2.1_0\js\background.js – keyword: "fetch("
+
+------------------------------------------------------------
+
+  Checking extension: Tampermonkey...
+
+   FOUND ISSUES IN EXTENSION: Tampermonkey
+   Browser: Chrome, Profile: Default
+   Image URL: https://lh3.googleusercontent.com/zoY8FwoOqPlBgFxcmFdNSK2Q4CcLmv-gw7vTjF2KMR9cEabwBsGNrHBTEMitn0Ba6OmCVJ0NcLnFGu3N97BP8Phu0g=s60
+   Risk Score: 13
+
+        csp found in:
+                5.3.3_0\background.js
+
+        tabs found in:
+                5.3.3_0\manifest.json
+
+        webrequestblocking found in:
+                5.3.3_0\manifest.json
+
+        declarativenetrequest found in:
+                5.3.3_0\manifest.json
+
+        unsafe_keywords found in:
+                5.3.3_0\background.js – keyword: "new Function("
+                5.3.3_0\background.js – keyword: "indexedDB.open("
+                5.3.3_0\editor.js – keyword: "setTimeout("
+                5.3.3_0\vendor\jsdiff\diff.js – keyword: "setTimeout("
+                5.3.3_0\editor.js – keyword: "setInterval("
+                5.3.3_0\vendor\eslint\eslint.js – keyword: "setTimeout("
+                5.3.3_0\extension.js – keyword: "setTimeout("
+                5.3.3_0\extension.js – keyword: "fetch("
+                5.3.3_0\vendor\saveas\filesaver.js – keyword: "setTimeout("
+                5.3.3_0\background.js – keyword: "atob("
+                5.3.3_0\content.js – keyword: "setTimeout("
+                5.3.3_0\background.js – keyword: "setTimeout("
+                5.3.3_0\extension.js – keyword: "setInterval("
+                5.3.3_0\content.js – keyword: "btoa("
+                5.3.3_0\vendor\eslint\eslint.js – keyword: "eval("
+                5.3.3_0\background.js – keyword: "eval("
+                5.3.3_0\editor.js – keyword: "innerHTML"
+                5.3.3_0\extension.js – keyword: "innerHTML"
+                5.3.3_0\extension.js – keyword: "new Function("
+                5.3.3_0\vendor\eslint\eslint.js – keyword: "new Function("
+
+------------------------------------------------------------
+
+  Checking extension: I Wanna Be The Flash Game...
+
+   FOUND ISSUES IN EXTENSION: I Wanna Be The Flash Game
+   Browser: Chrome, Profile: Default
+   Image URL: https://lh3.googleusercontent.com/d2oWaHyR3lvcra81oVS0o8rrl9w9ZP76V33ChnwX1YkZ4rPGR7qQTmm5sxN3XI9bco8DUcDY2p_3VWvvAQeMVcHYhw=s60
+   Risk Score: 1
+
+        unsafe_keywords found in:
+                1.2_0\popup.js – keyword: "innerHTML"
+                1.2_0\config.js – keyword: "innerHTML"
+
+------------------------------------------------------------
+
+  Checking extension: Return YouTube Dislike...
+
+   FOUND ISSUES IN EXTENSION: Return YouTube Dislike
+   Browser: Chrome, Profile: Default
+   Image URL: https://lh3.googleusercontent.com/X0-M21C_VbWyXYuUjN55oyMDvOukjbzAxbs_WrUjwzsebWbyjFCIEchOtczI0DBvbyL9MUpuEWnghm19gF6dp8Vriw=s60
+   Risk Score: 3
+
+        unsafe_keywords found in:
+                3.0.0.18_0\menu-fixer.js – keyword: "setTimeout("
+                3.0.0.18_0\changelog\changelog.js – keyword: "innerHTML"
+                3.0.0.18_0\popup.js – keyword: "chrome.runtime.sendMessage("
+                3.0.0.18_0\ryd.background.js – keyword: "btoa("
+                3.0.0.18_0\popup.js – keyword: "innerHTML"
+                3.0.0.18_0\ryd.background.js – keyword: "atob("
+                3.0.0.18_0\ryd.content-script.js – keyword: "innerHTML"
+                3.0.0.18_0\popup.js – keyword: "fetch("
+                3.0.0.18_0\ryd.content-script.js – keyword: "fetch("
+                3.0.0.18_0\ryd.background.js – keyword: "fetch("
+                3.0.0.18_0\ryd.content-script.js – keyword: "setInterval("
+
+------------------------------------------------------------
+
+  Checking extension: Google Docs Offline...
+
+   FOUND ISSUES IN EXTENSION: Google Docs Offline
+   Browser: Chrome, Profile: Default
+   Image URL: https://lh3.googleusercontent.com/7ZBWwJBUILCxSsLzHse2zUX0nGyyDPAi_OsamyY88qfvfYFQs49JflAhDa5DKwdVVR_DLCovV-ATqrdjreE43ZGiZA=s60
+   Risk Score: 5
+
+        clipboardread found in:
+                1.86.1_0\manifest.json
+
+        unsafe_keywords found in:
+                1.86.1_0\service_worker_bin_prod.js – keyword: "btoa("
+                1.86.1_0\offscreendocument_main.js – keyword: "setTimeout("
+                1.86.1_0\service_worker_bin_prod.js – keyword: "chrome.runtime.sendMessage("
+                1.86.1_0\service_worker_bin_prod.js – keyword: "setTimeout("
+                1.86.1_0\service_worker_bin_prod.js – keyword: "fetch("
+                1.86.1_0\offscreendocument_main.js – keyword: "btoa("
+                1.86.1_0\offscreendocument_main.js – keyword: "chrome.runtime.sendMessage("
+
+------------------------------------------------------------
+
+  Checking extension: Screen Recorder...
+
+   FOUND ISSUES IN EXTENSION: Screen Recorder
+   Browser: Chrome, Profile: Default
+   Image URL: https://lh3.googleusercontent.com/xjK7NQkDGttQaHIetQ9LdofoAhYz9sqveYVt5ICo-2Oa27S78ZUsfW741wRdxWpoAZcNuuNWeSw0TPEGRJI6sUY1aA=s60
+   Risk Score: 3
+
+        unsafe_keywords found in:
+                3.3.1_0\static\js\main.ff9ff9e3.js – keyword: "chrome.runtime.sendMessage("
+                3.3.1_0\static\js\1.adf9a35a.chunk.js – keyword: "setTimeout("
+                3.3.1_0\static\js\main.ff9ff9e3.js – keyword: "innerHTML"
+                3.3.1_0\static\js\main.ff9ff9e3.js – keyword: "setTimeout("
+                3.3.1_0\static\js\main.ff9ff9e3.js – keyword: "new Function("
+                3.3.1_0\static\js\main.ff9ff9e3.js – keyword: "atob("
+                3.3.1_0\static\js\main.ff9ff9e3.js – keyword: "fetch("
+                3.3.1_0\static\js\main.ff9ff9e3.js – keyword: "localStorage.setItem("
+                3.3.1_0\static\js\main.ff9ff9e3.js – keyword: "setInterval("
+                3.3.1_0\static\js\main.ff9ff9e3.js – keyword: "indexedDB.open("
+                3.3.1_0\static\js\main.ff9ff9e3.js – keyword: "btoa("
+
+------------------------------------------------------------
+
+  Checking extension: Allow CSP: Content-Security-Policy...
+
+   FOUND ISSUES IN EXTENSION: Allow CSP: Content-Security-Policy
+   Browser: Chrome, Profile: Default
+   Image URL: https://lh3.googleusercontent.com/E2w05bXNwmUsYxISnPR5ExFemYVO02D4pXTFThvdh4LoobuKfHIPE_AWw_CFaykbbfONXWqBqmm81VK5nTIERFuF=s60
+   Risk Score: 11
+
+        csp found in:
+                0.1.2_0\manifest.json
+
+        declarativenetrequest found in:
+                0.1.2_0\manifest.json
+
+        unsafe_keywords found in:
+                0.1.2_0\data\popup\popup.js – keyword: "chrome.runtime.sendMessage("
+                0.1.2_0\data\options\options.js – keyword: "chrome.runtime.sendMessage("
+                0.1.2_0\data\popup\popup.js – keyword: "setTimeout("
+                0.1.2_0\lib\chrome.js – keyword: "chrome.runtime.sendMessage("
+
+------------------------------------------------------------
+
+  Checking extension: Disable Content-Security-Policy...
+
+   FOUND ISSUES IN EXTENSION: Disable Content-Security-Policy
+   Browser: Chrome, Profile: Default
+   Image URL: https://lh3.googleusercontent.com/RpTYrKJqxmhlpkWd_gc8Rxzs23sg0opE_DIETEftG45d-hE32h8-nek1R2GxCAlxEk6Jh82VsE2RLFx6ouU77z_tvF8=s60
+   Risk Score: 10
+
+        csp found in:
+                4.0.0_0\service_worker.js
+
+        declarativenetrequest found in:
+                4.0.0_0\manifest.json
+
+        unsafe_keywords found in:
+                4.0.0_0\test\service-worker.js – keyword: "fetch("
+
+------------------------------------------------------------
+
+  Checking extension: Looper for YouTube...
+
+   FOUND ISSUES IN EXTENSION: Looper for YouTube
+   Browser: Chrome, Profile: Default
+   Image URL: https://lh3.googleusercontent.com/1um_gR-714iErBRLcuOOsC3tG6bHKJZgkkszLAQoK4PYbiRwSEDwna0eheWn6we80rY-e9uBk2bkoNKTGBLfcrFNpQ=s60
+   Risk Score: 3
+
+        unsafe_keywords found in:
+                5.18.1_0\contentscript.js – keyword: "setTimeout("
+                5.18.1_0\contentscript.js – keyword: "localStorage.setItem("
+                5.18.1_0\options.js – keyword: "innerHTML"
+                5.18.1_0\contentscript.js – keyword: "setInterval("
+                5.18.1_0\options.js – keyword: "setTimeout("
+                5.18.1_0\contentscript.js – keyword: "XMLHttpRequest("
+
+------------------------------------------------------------
+
+  Checking extension: GPemu...
+
+   FOUND ISSUES IN EXTENSION: GPemu
+   Browser: Chrome, Profile: Default
+   Image URL: https://lh3.googleusercontent.com/4Tzu_kv0EzEyEICRg4ua_yulQSBY5MEuGxbgzzT9_fZlP_H7vWu_qnJAfJlVYWCLIEFoOETDvmpz5-KhHJaS5XXsPJc=s60
+   Risk Score: 3
+
+        unsafe_keywords found in:
+                1.2.7_0\build.js – keyword: "btoa("
+                1.2.7_0\build.js – keyword: "innerHTML"
+                1.2.7_0\build.js – keyword: "XMLHttpRequest("
+                1.2.7_0\build.js – keyword: "atob("
+                1.2.7_0\google-analytics-bundle.js – keyword: "setTimeout("
+                1.2.7_0\jspm_packages\system-csp-production.js – keyword: "new Function("
+                1.2.7_0\build.js – keyword: "setInterval("
+                1.2.7_0\build.js – keyword: "outerHTML"
+                1.2.7_0\build.js – keyword: "setTimeout("
+                1.2.7_0\jspm_packages\system-csp-production.js – keyword: "document.write("
+                1.2.7_0\build.js – keyword: "fetch("
+                1.2.7_0\build.js – keyword: "localStorage.setItem("
+                1.2.7_0\jspm_packages\github\jmcriffey\bower-traceur-runtime@0.0.91\traceur-runtime.min.js – keyword: "setTimeout("
+                1.2.7_0\build.js – keyword: "eval("
+                1.2.7_0\build.js – keyword: "indexedDB.open("
+                1.2.7_0\jspm_packages\system-csp-production.js – keyword: "fetch("
+
+------------------------------------------------------------
+
+  Checking extension: EPUBReader...
+
+   FOUND ISSUES IN EXTENSION: EPUBReader
+   Browser: Chrome, Profile: Default
+   Image URL: https://lh3.googleusercontent.com/Yv_tIM5iYJGlhRohhnV2EYBGLvSyRSMZbK6FGCTsQ7Ri8keYrEbkSsUPh1wO_vYE6oK7FnS_h15gn1vYTfKkZsjvHw=s60
+   Risk Score: 4
+
+        declarativenetrequest found in:
+                2.1.1_0\manifest.json
+
+        unsafe_keywords found in:
+                2.1.1_0\js\zip\zip.js – keyword: "setTimeout("
+                2.1.1_0\js\core.js – keyword: "setTimeout("
+                2.1.1_0\js\zip\zip.js – keyword: "XMLHttpRequest("
+                2.1.1_0\js\reader.js – keyword: "XMLHttpRequest("
+                2.1.1_0\js\zip\zip.js – keyword: "btoa("
+                2.1.1_0\js\zip\zip.js – keyword: "atob("
+                2.1.1_0\js\app.js – keyword: "innerHTML"
+                2.1.1_0\js\core.js – keyword: "innerHTML"
+                2.1.1_0\js\reader.js – keyword: "setTimeout("
+                2.1.1_0\js\reader.js – keyword: "innerHTML"
+
+------------------------------------------------------------
+
+  Checking extension: CSP Unblock...
+
+   FOUND ISSUES IN EXTENSION: CSP Unblock
+   Browser: Chrome, Profile: Default
+   Image URL: https://lh3.googleusercontent.com/4bhq22ouTciJnDL8N22vmSqc37ES7xVQF4OA14V--lo_6CiyBwYrNjB8mK0tTIF9VzzMrix3RmwHRO6-JCk7ejTUSQ=s60
+   Risk Score: 9
+
+        csp found in:
+                0.1.1_0\_metadata\generated_indexed_rulesets\_ruleset2
+                0.1.1_0\_metadata\generated_indexed_rulesets\_ruleset1
+                0.1.1_0\rulesets\csp-4.json
+                0.1.1_0\rulesets\csp-3.json
+                0.1.1_0\_metadata\generated_indexed_rulesets\_ruleset3
+                0.1.1_0\_metadata\generated_indexed_rulesets\_ruleset4
+                0.1.1_0\rulesets\csp-1.json
+                0.1.1_0\rulesets\csp-2.json
+
+        declarativenetrequest found in:
+                0.1.1_0\manifest.json
+
+------------------------------------------------------------
+
+  Checking extension: Screencastify - Screen Video Recorder...
+
+   FOUND ISSUES IN EXTENSION: Screencastify - Screen Video Recorder
+   Browser: Chrome, Profile: Default
+   Image URL: https://lh3.googleusercontent.com/tLAX011-xl2axie7eeLRU3Bsv6_06-Km7ihH1fbxbOnkPubvoRjDatjxN5xmw9R4P2AdZFowUimFcBSSqPHJgjqq7g=s60
+   Risk Score: 4
+
+        tabs found in:
+                4.20.7.5502_1\manifest.json
+
+        unsafe_keywords found in:
+                4.20.7.5502_1\extension-installed-post-message.js – keyword: "setInterval("
+                4.20.7.5502_1\initializer.js.map – keyword: "indexedDB.open("
+                4.20.7.5502_1\getting-started.js.map – keyword: "setInterval("
+                4.20.7.5502_1\getting-started.js – keyword: "fetch("
+                4.20.7.5502_1\offscreen.js.map – keyword: "XMLHttpRequest("
+                4.20.7.5502_1\webcam.js – keyword: "fetch("
+                4.20.7.5502_1\extension-installed-post-message.js – keyword: "btoa("
+                4.20.7.5502_1\offscreen.js.map – keyword: "fetch("
+                4.20.7.5502_1\controller.js.map – keyword: "XMLHttpRequest("
+                4.20.7.5502_1\quick-record-script.js – keyword: "atob("
+                4.20.7.5502_1\controller.js – keyword: "localStorage.setItem("
+                4.20.7.5502_1\initializer.js – keyword: "btoa("
+                4.20.7.5502_1\options.js – keyword: "atob("
+                4.20.7.5502_1\background.js.map – keyword: "atob("
+                4.20.7.5502_1\base-dom-injection.js.map – keyword: "btoa("
+                4.20.7.5502_1\base-dom-injection.js – keyword: "atob("
+                4.20.7.5502_1\controller.js.map – keyword: "fetch("
+                4.20.7.5502_1\quick-record-script.js – keyword: "localStorage.setItem("
+                4.20.7.5502_1\quick-record-script.js – keyword: "indexedDB.open("
+                4.20.7.5502_1\offscreen.js – keyword: "fetch("
+                4.20.7.5502_1\quick-record-script.js.map – keyword: "atob("
+                4.20.7.5502_1\options.js – keyword: "indexedDB.open("
+                4.20.7.5502_1\extension-installed-post-message.js.map – keyword: "XMLHttpRequest("
+                4.20.7.5502_1\background.js.map – keyword: "indexedDB.open("
+                4.20.7.5502_1\initializer.js.map – keyword: "setTimeout("
+                4.20.7.5502_1\base-dom-injection.js – keyword: "indexedDB.open("
+                4.20.7.5502_1\getting-started.js.map – keyword: "atob("
+                4.20.7.5502_1\getting-started.js – keyword: "chrome.runtime.sendMessage("
+                4.20.7.5502_1\extension-installed-post-message.js.map – keyword: "fetch("
+                4.20.7.5502_1\initializer.js – keyword: "eval("
+                4.20.7.5502_1\getting-started.js.map – keyword: "localStorage.setItem("
+                4.20.7.5502_1\quick-record-script.js.map – keyword: "indexedDB.open("
+                4.20.7.5502_1\getting-started.js – keyword: "innerHTML"
+                4.20.7.5502_1\getting-started.js – keyword: "new Function("
+                4.20.7.5502_1\webcam.js – keyword: "chrome.runtime.sendMessage("
+                4.20.7.5502_1\getting-started.js.map – keyword: "indexedDB.open("
+                4.20.7.5502_1\webcam.js.map – keyword: "btoa("
+                4.20.7.5502_1\offscreen.js.map – keyword: "chrome.runtime.sendMessage("
+                4.20.7.5502_1\webcam.js – keyword: "innerHTML"
+                4.20.7.5502_1\webcam.js – keyword: "new Function("
+                4.20.7.5502_1\offscreen.js – keyword: "eval("
+                4.20.7.5502_1\initializer.js – keyword: "new Function("
+                4.20.7.5502_1\offscreen.js.map – keyword: "new Function("
+                4.20.7.5502_1\controller.js.map – keyword: "chrome.runtime.sendMessage("
+                4.20.7.5502_1\options.js.map – keyword: "chrome.runtime.sendMessage("
+                4.20.7.5502_1\background.js – keyword: "chrome.runtime.sendMessage("
+                4.20.7.5502_1\controller.js – keyword: "setTimeout("
+                4.20.7.5502_1\controller.js.map – keyword: "innerHTML"
+                4.20.7.5502_1\offscreen.js – keyword: "chrome.runtime.sendMessage("
+                4.20.7.5502_1\options.js – keyword: "fetch("
+                4.20.7.5502_1\extension-installed-post-message.js.map – keyword: "eval("
+                4.20.7.5502_1\controller.js.map – keyword: "new Function("
+                4.20.7.5502_1\initializer.js.map – keyword: "chrome.runtime.sendMessage("
+                4.20.7.5502_1\options.js.map – keyword: "innerHTML"
+                4.20.7.5502_1\base-dom-injection.js – keyword: "fetch("
+                4.20.7.5502_1\quick-record-script.js – keyword: "setTimeout("
+                4.20.7.5502_1\webcam.js.map – keyword: "eval("
+                4.20.7.5502_1\background.js.map – keyword: "setTimeout("
+                4.20.7.5502_1\offscreen.js – keyword: "new Function("
+                4.20.7.5502_1\initializer.js.map – keyword: "innerHTML"
+                4.20.7.5502_1\quick-record-script.js.map – keyword: "setTimeout("
+                4.20.7.5502_1\extension-installed-post-message.js.map – keyword: "new Function("
+                4.20.7.5502_1\getting-started.js.map – keyword: "setTimeout("
+                4.20.7.5502_1\quick-record-script.js – keyword: "chrome.runtime.sendMessage("
+                4.20.7.5502_1\initializer.js – keyword: "setInterval("
+                4.20.7.5502_1\base-dom-injection.js.map – keyword: "setInterval("
+                4.20.7.5502_1\options.js – keyword: "chrome.runtime.sendMessage("
+                4.20.7.5502_1\getting-started.js – keyword: "btoa("
+                4.20.7.5502_1\quick-record-script.js – keyword: "innerHTML"
+                4.20.7.5502_1\background.js.map – keyword: "chrome.runtime.sendMessage("
+                4.20.7.5502_1\base-dom-injection.js – keyword: "chrome.runtime.sendMessage("
+                4.20.7.5502_1\options.js – keyword: "innerHTML"
+                4.20.7.5502_1\controller.js – keyword: "atob("
+                4.20.7.5502_1\options.js.map – keyword: "XMLHttpRequest("
+                4.20.7.5502_1\base-dom-injection.js – keyword: "innerHTML"
+                4.20.7.5502_1\webcam.js – keyword: "btoa("
+                4.20.7.5502_1\quick-record-script.js.map – keyword: "chrome.runtime.sendMessage("
+                4.20.7.5502_1\offscreen.js.map – keyword: "btoa("
+                4.20.7.5502_1\options.js.map – keyword: "fetch("
+                4.20.7.5502_1\background.js – keyword: "fetch("
+                4.20.7.5502_1\getting-started.js.map – keyword: "chrome.runtime.sendMessage("
+                4.20.7.5502_1\initializer.js.map – keyword: "XMLHttpRequest("
+                4.20.7.5502_1\controller.js – keyword: "indexedDB.open("
+                4.20.7.5502_1\quick-record-script.js.map – keyword: "innerHTML"
+                4.20.7.5502_1\getting-started.js – keyword: "eval("
+                4.20.7.5502_1\getting-started.js.map – keyword: "innerHTML"
+                4.20.7.5502_1\controller.js.map – keyword: "btoa("
+                4.20.7.5502_1\initializer.js.map – keyword: "fetch("
+                4.20.7.5502_1\webcam.js.map – keyword: "setInterval("
+                4.20.7.5502_1\offscreen.js – keyword: "btoa("
+                4.20.7.5502_1\webcam.js – keyword: "eval("
+                4.20.7.5502_1\offscreen.js.map – keyword: "eval("
+                4.20.7.5502_1\base-dom-injection.js.map – keyword: "atob("
+                4.20.7.5502_1\extension-installed-post-message.js.map – keyword: "btoa("
+                4.20.7.5502_1\initializer.js – keyword: "localStorage.setItem("
+                4.20.7.5502_1\controller.js.map – keyword: "eval("
+                4.20.7.5502_1\base-dom-injection.js.map – keyword: "localStorage.setItem("
+                4.20.7.5502_1\background.js – keyword: "eval("
+                4.20.7.5502_1\options.js.map – keyword: "eval("
+                4.20.7.5502_1\base-dom-injection.js.map – keyword: "indexedDB.open("
+                4.20.7.5502_1\initializer.js.map – keyword: "eval("
+                4.20.7.5502_1\controller.js – keyword: "fetch("
+                4.20.7.5502_1\background.js.map – keyword: "XMLHttpRequest("
+                4.20.7.5502_1\quick-record-script.js – keyword: "fetch("
+                4.20.7.5502_1\options.js.map – keyword: "new Function("
+                4.20.7.5502_1\background.js – keyword: "new Function("
+                4.20.7.5502_1\background.js.map – keyword: "fetch("
+                4.20.7.5502_1\quick-record-script.js.map – keyword: "XMLHttpRequest("
+                4.20.7.5502_1\options.js – keyword: "btoa("
+                4.20.7.5502_1\getting-started.js.map – keyword: "XMLHttpRequest("
+                4.20.7.5502_1\initializer.js.map – keyword: "new Function("
+                4.20.7.5502_1\quick-record-script.js.map – keyword: "fetch("
+                4.20.7.5502_1\base-dom-injection.js – keyword: "btoa("
+                4.20.7.5502_1\webcam.js.map – keyword: "localStorage.setItem("
+                4.20.7.5502_1\getting-started.js.map – keyword: "fetch("
+                4.20.7.5502_1\extension-installed-post-message.js – keyword: "setTimeout("
+                4.20.7.5502_1\getting-started.js – keyword: "setInterval("
+                4.20.7.5502_1\quick-record-script.js – keyword: "eval("
+                4.20.7.5502_1\initializer.js – keyword: "setTimeout("
+                4.20.7.5502_1\options.js – keyword: "eval("
+                4.20.7.5502_1\base-dom-injection.js.map – keyword: "setTimeout("
+                4.20.7.5502_1\background.js.map – keyword: "eval("
+                4.20.7.5502_1\webcam.js – keyword: "setInterval("
+                4.20.7.5502_1\base-dom-injection.js – keyword: "eval("
+                4.20.7.5502_1\controller.js – keyword: "chrome.runtime.sendMessage("
+                4.20.7.5502_1\offscreen.js.map – keyword: "setInterval("
+                4.20.7.5502_1\controller.js – keyword: "innerHTML"
+                4.20.7.5502_1\quick-record-script.js.map – keyword: "eval("
+                4.20.7.5502_1\quick-record-script.js – keyword: "new Function("
+                4.20.7.5502_1\getting-started.js.map – keyword: "eval("
+                4.20.7.5502_1\controller.js.map – keyword: "setInterval("
+                4.20.7.5502_1\options.js – keyword: "new Function("
+                4.20.7.5502_1\background.js – keyword: "setInterval("
+                4.20.7.5502_1\options.js.map – keyword: "setInterval("
+                4.20.7.5502_1\background.js.map – keyword: "new Function("
+                4.20.7.5502_1\base-dom-injection.js – keyword: "new Function("
+                4.20.7.5502_1\offscreen.js – keyword: "setInterval("
+                4.20.7.5502_1\initializer.js.map – keyword: "setInterval("
+                4.20.7.5502_1\quick-record-script.js.map – keyword: "new Function("
+                4.20.7.5502_1\webcam.js.map – keyword: "setTimeout("
+                4.20.7.5502_1\options.js.map – keyword: "btoa("
+                4.20.7.5502_1\getting-started.js.map – keyword: "new Function("
+                4.20.7.5502_1\background.js – keyword: "btoa("
+                4.20.7.5502_1\extension-installed-post-message.js.map – keyword: "setInterval("
+                4.20.7.5502_1\base-dom-injection.js.map – keyword: "chrome.runtime.sendMessage("
+                4.20.7.5502_1\getting-started.js – keyword: "localStorage.setItem("
+                4.20.7.5502_1\base-dom-injection.js.map – keyword: "innerHTML"
+                4.20.7.5502_1\initializer.js.map – keyword: "btoa("
+                4.20.7.5502_1\initializer.js – keyword: "atob("
+                4.20.7.5502_1\webcam.js – keyword: "localStorage.setItem("
+                4.20.7.5502_1\initializer.js – keyword: "indexedDB.open("
+                4.20.7.5502_1\controller.js.map – keyword: "localStorage.setItem("
+                4.20.7.5502_1\options.js – keyword: "setInterval("
+                4.20.7.5502_1\options.js.map – keyword: "localStorage.setItem("
+                4.20.7.5502_1\background.js.map – keyword: "setInterval("
+                4.20.7.5502_1\base-dom-injection.js – keyword: "setInterval("
+                4.20.7.5502_1\controller.js – keyword: "btoa("
+                4.20.7.5502_1\quick-record-script.js.map – keyword: "setInterval("
+                4.20.7.5502_1\quick-record-script.js – keyword: "btoa("
+                4.20.7.5502_1\webcam.js.map – keyword: "atob("
+                4.20.7.5502_1\background.js.map – keyword: "btoa("
+                4.20.7.5502_1\extension-installed-post-message.js – keyword: "fetch("
+                4.20.7.5502_1\getting-started.js – keyword: "setTimeout("
+                4.20.7.5502_1\webcam.js.map – keyword: "indexedDB.open("
+                4.20.7.5502_1\base-dom-injection.js.map – keyword: "XMLHttpRequest("
+                4.20.7.5502_1\quick-record-script.js.map – keyword: "btoa("
+                4.20.7.5502_1\webcam.js – keyword: "setTimeout("
+                4.20.7.5502_1\controller.js – keyword: "eval("
+                4.20.7.5502_1\initializer.js – keyword: "fetch("
+                4.20.7.5502_1\getting-started.js.map – keyword: "btoa("
+                4.20.7.5502_1\base-dom-injection.js.map – keyword: "fetch("
+                4.20.7.5502_1\offscreen.js.map – keyword: "setTimeout("
+                4.20.7.5502_1\controller.js.map – keyword: "setTimeout("
+                4.20.7.5502_1\options.js – keyword: "localStorage.setItem("
+                4.20.7.5502_1\background.js – keyword: "setTimeout("
+                4.20.7.5502_1\options.js.map – keyword: "setTimeout("
+                4.20.7.5502_1\base-dom-injection.js – keyword: "localStorage.setItem("
+                4.20.7.5502_1\controller.js – keyword: "new Function("
+                4.20.7.5502_1\extension-installed-post-message.js – keyword: "eval("
+                4.20.7.5502_1\offscreen.js – keyword: "setTimeout("
+                4.20.7.5502_1\webcam.js.map – keyword: "XMLHttpRequest("
+                4.20.7.5502_1\quick-record-script.js.map – keyword: "localStorage.setItem("
+                4.20.7.5502_1\webcam.js.map – keyword: "fetch("
+                4.20.7.5502_1\base-dom-injection.js.map – keyword: "eval("
+                4.20.7.5502_1\extension-installed-post-message.js.map – keyword: "setTimeout("
+                4.20.7.5502_1\webcam.js.map – keyword: "innerHTML"
+                4.20.7.5502_1\extension-installed-post-message.js – keyword: "new Function("
+                4.20.7.5502_1\initializer.js – keyword: "chrome.runtime.sendMessage("
+                4.20.7.5502_1\getting-started.js – keyword: "atob("
+                4.20.7.5502_1\initializer.js – keyword: "innerHTML"
+                4.20.7.5502_1\webcam.js – keyword: "atob("
+                4.20.7.5502_1\base-dom-injection.js.map – keyword: "new Function("
+                4.20.7.5502_1\getting-started.js – keyword: "indexedDB.open("
+                4.20.7.5502_1\webcam.js – keyword: "indexedDB.open("
+                4.20.7.5502_1\options.js – keyword: "setTimeout("
+                4.20.7.5502_1\controller.js.map – keyword: "atob("
+                4.20.7.5502_1\controller.js – keyword: "setInterval("
+                4.20.7.5502_1\background.js – keyword: "atob("
+                4.20.7.5502_1\base-dom-injection.js – keyword: "setTimeout("
+                4.20.7.5502_1\options.js.map – keyword: "atob("
+                4.20.7.5502_1\quick-record-script.js – keyword: "setInterval("
+                4.20.7.5502_1\assets\other\castifyMediawriter\mediawriter.worker.min.js – keyword: "setTimeout("
+                4.20.7.5502_1\webcam.js.map – keyword: "chrome.runtime.sendMessage("
+                4.20.7.5502_1\initializer.js.map – keyword: "atob("
+                4.20.7.5502_1\controller.js.map – keyword: "indexedDB.open("
+                4.20.7.5502_1\options.js.map – keyword: "indexedDB.open("
+                4.20.7.5502_1\background.js – keyword: "indexedDB.open("
+                4.20.7.5502_1\initializer.js.map – keyword: "localStorage.setItem("
+                4.20.7.5502_1\webcam.js.map – keyword: "new Function("
+
+------------------------------------------------------------
+
+  Checking extension: nmmhkkegccagdldgiimedpiccmgmieda...
+
+   FOUND ISSUES IN EXTENSION: nmmhkkegccagdldgiimedpiccmgmieda
+   Browser: Chrome, Profile: Default
+   Image URL: N/A
+   Risk Score: 3
+
+        unsafe_keywords found in:
+                1.0.0.6_0\craw_background.js – keyword: "eval("
+                1.0.0.6_0\craw_window.js – keyword: "document.write("
+                1.0.0.6_0\craw_window.js – keyword: "innerHTML"
+                1.0.0.6_0\craw_window.js – keyword: "outerHTML"
+                1.0.0.6_0\craw_window.js – keyword: "setTimeout("
+                1.0.0.6_0\craw_background.js – keyword: "btoa("
+                1.0.0.6_0\craw_background.js – keyword: "innerHTML"
+                1.0.0.6_0\craw_background.js – keyword: "setTimeout("
+                1.0.0.6_0\craw_background.js – keyword: "atob("
+                1.0.0.6_0\craw_window.js – keyword: "eval("
+                1.0.0.6_0\craw_background.js – keyword: "outerHTML"
+
+------------------------------------------------------------
+
+  Checking extension: Spelunky...
+
+   FOUND ISSUES IN EXTENSION: Spelunky
+   Browser: Chrome, Profile: Default
+   Image URL: https://lh3.googleusercontent.com/IQHsY_SsUDmGARBasxi515GddXIPp88CG3II5rOwGz5nZp1pqtgu4Rs9kHFmwm8FXmsEdHiKHG0X7raR1TnPkwsL2A=s60
+   Risk Score: 3
+
+        unsafe_keywords found in:
+                6_0\html5game\index.js – keyword: "XMLHttpRequest("
+                6_0\html5game\index.js – keyword: "innerHTML"
+                6_0\html5game\index.js – keyword: "setTimeout("
+                6_0\html5game\index.js – keyword: "setInterval("
+                6_0\html5game\index.js – keyword: "eval("
+
+------------------------------------------------------------
+
+  Checking extension: Video Editor for Chromebook &amp; more: Free app...
+
+  Checking extension: SetupVPN - Lifetime Free VPN...
+
+   FOUND ISSUES IN EXTENSION: SetupVPN - Lifetime Free VPN
+   Browser: Chrome, Profile: Default
+   Image URL: https://lh3.googleusercontent.com/ZzPRBendQuibTvEyWxnBentVUh3WH1omEDpzHyM4xTg9NyyVIQ_sNvETuJXEnoWc05zKVpnDZdIGjugiHZsmsbFzKg=s60
+   Risk Score: 5
+
+        tabs found in:
+                4.0.9_0\manifest.json
+
+        declarativenetrequest found in:
+                4.0.9_0\manifest.json
+
+        unsafe_keywords found in:
+                4.0.9_0\popup.bundle.js – keyword: "innerHTML"
+                4.0.9_0\popup.bundle.js – keyword: "new Function("
+                4.0.9_0\libs\vendors.dll.js – keyword: "setTimeout("
+                4.0.9_0\libs\vendors.dll.js – keyword: "fetch("
+                4.0.9_0\libs\vendors.dll.js – keyword: "setInterval("
+                4.0.9_0\background.bundle.js – keyword: "setInterval("
+                4.0.9_0\libs\vendors.dll.js – keyword: "sessionStorage.setItem("
+                4.0.9_0\background.bundle.js – keyword: "setTimeout("
+                4.0.9_0\background.bundle.js – keyword: "fetch("
+                4.0.9_0\baselink.bundle.js – keyword: "setTimeout("
+                4.0.9_0\baselink.bundle.js – keyword: "fetch("
+                4.0.9_0\background.bundle.js – keyword: "btoa("
+                4.0.9_0\baselink.bundle.js – keyword: "setInterval("
+                4.0.9_0\baselink.bundle.js – keyword: "btoa("
+                4.0.9_0\popup.bundle.js – keyword: "setTimeout("
+                4.0.9_0\libs\vendors.dll.js – keyword: "innerHTML"
+                4.0.9_0\libs\vendors.dll.js – keyword: "new Function("
+                4.0.9_0\background.bundle.js – keyword: "atob("
+                4.0.9_0\background.bundle.js – keyword: "new Function("
+                4.0.9_0\popup.bundle.js – keyword: "btoa("
+                4.0.9_0\baselink.bundle.js – keyword: "innerHTML"
+                4.0.9_0\baselink.bundle.js – keyword: "atob("
+                4.0.9_0\baselink.bundle.js – keyword: "new Function("
+
+------------------------------------------------------------
+
+  Checking extension: Discrub...
+
+   FOUND ISSUES IN EXTENSION: Discrub
+   Browser: Chrome, Profile: Default
+   Image URL: https://lh3.googleusercontent.com/-ub3XZkLLq-u5I5a3zWbLQgf50Q_h2YtkZHkkWfc1dsRQziXgcV8uDD4Qk-I5gnQUyMwOqOJzO21_iFnAmqcH7Zg9g=s60
+   Risk Score: 3
+
+        unsafe_keywords found in:
+                1.12.8_1\assets\chrome-service-b2306c57.js – keyword: "innerHTML"
+                1.12.8_1\assets\chrome-service-b2306c57.js – keyword: "setTimeout("
+                1.12.8_1\assets\chrome-service-b2306c57.js – keyword: "fetch("
+                1.12.8_1\resources\js\mitm.js – keyword: "fetch("
+                1.12.8_1\main.js – keyword: "innerHTML"
+                1.12.8_1\assets\content.js-1273dc67.js – keyword: "innerHTML"
+                1.12.8_1\main.js – keyword: "setTimeout("
+                1.12.8_1\resources\js\mitm.js – keyword: "setInterval("
+                1.12.8_1\main.js – keyword: "fetch("
+                1.12.8_1\main.js – keyword: "outerHTML"
+                1.12.8_1\main.js – keyword: "setInterval("
+
+------------------------------------------------------------
+
+  Now checking Edge profile: Default...
+
+  Checking extension: Google Docs Offline...
+
+   FOUND ISSUES IN EXTENSION: Google Docs Offline
+   Browser: Edge, Profile: Default
+   Image URL: https://lh3.googleusercontent.com/7ZBWwJBUILCxSsLzHse2zUX0nGyyDPAi_OsamyY88qfvfYFQs49JflAhDa5DKwdVVR_DLCovV-ATqrdjreE43ZGiZA=s60
+   Risk Score: 5
+
+        clipboardread found in:
+                1.86.1_0\manifest.json
+                1.91.1_0\manifest.json
+
+        unsafe_keywords found in:
+                1.91.1_0\offscreendocument_main.js – keyword: "chrome.runtime.sendMessage("
+                1.86.1_0\service_worker_bin_prod.js – keyword: "btoa("
+                1.86.1_0\offscreendocument_main.js – keyword: "setTimeout("
+                1.86.1_0\service_worker_bin_prod.js – keyword: "chrome.runtime.sendMessage("
+                1.91.1_0\offscreendocument_main.js – keyword: "setTimeout("
+                1.86.1_0\service_worker_bin_prod.js – keyword: "setTimeout("
+                1.86.1_0\service_worker_bin_prod.js – keyword: "fetch("
+                1.91.1_0\service_worker_bin_prod.js – keyword: "btoa("
+                1.91.1_0\service_worker_bin_prod.js – keyword: "setTimeout("
+                1.91.1_0\service_worker_bin_prod.js – keyword: "chrome.runtime.sendMessage("
+                1.86.1_0\offscreendocument_main.js – keyword: "btoa("
+                1.86.1_0\offscreendocument_main.js – keyword: "chrome.runtime.sendMessage("
+                1.91.1_0\offscreendocument_main.js – keyword: "btoa("
+                1.91.1_0\service_worker_bin_prod.js – keyword: "fetch("
+
+------------------------------------------------------------
+
+  Checking extension: jmjflgjpcpepeafmmgdpfkogkghcpiha...
+
+   FOUND ISSUES IN EXTENSION: jmjflgjpcpepeafmmgdpfkogkghcpiha
+   Browser: Edge, Profile: Default
+   Image URL: N/A
+   Risk Score: 1
+
+        unsafe_keywords found in:
+                1.2.1_0\content_new.js – keyword: "innerHTML"
+
+------------------------------------------------------------
+
+
+
+SUMMARY:
+
+uBlock Origin: Risk Score: 13
+Tampermonkey: Risk Score: 13
+Allow CSP: Content-Security-Policy: Risk Score: 11
+Disable Content-Security-Policy: Risk Score: 10
+CSP Unblock: Risk Score: 9
+TTV LOL PRO: Risk Score: 5
+SetupVPN - Lifetime Free VPN: Risk Score: 5
+Google Docs Offline: Risk Score: 5
+Google Docs Offline: Risk Score: 5
+Watch2Gether: Risk Score: 4
+Screencastify - Screen Video Recorder: Risk Score: 4
+EPUBReader: Risk Score: 4
+nmmhkkegccagdldgiimedpiccmgmieda: Risk Score: 3
+Spelunky: Risk Score: 3
+Screen Recorder: Risk Score: 3
+Return YouTube Dislike: Risk Score: 3
+Looper for YouTube: Risk Score: 3
+GPemu: Risk Score: 3
+Discrub: Risk Score: 3
+Annotations Restored for YouTube™: Risk Score: 3
+jmjflgjpcpepeafmmgdpfkogkghcpiha: Risk Score: 1
+I Wanna Be The Flash Game: Risk Score: 1
